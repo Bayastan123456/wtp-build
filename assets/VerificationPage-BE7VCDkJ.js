@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DUAcabCT.js";import{t}from"./VerificationStatus-Dh7x8_gz.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as VerificationPage};
