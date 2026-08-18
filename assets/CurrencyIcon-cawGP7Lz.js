@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-DUAcabCT.js";import{t}from"./utils-Cefft18u.js";var n=e(),r={RUB:`/icon/icon_rub.svg`,USDT:`/icon/icon_usdt.svg`};function i({currency:e,size:i=`md`,className:a}){return(0,n.jsx)(`img`,{src:r[e],alt:e,className:t(`inline-block shrink-0 rounded-full`,i===`md`?`size-9`:`size-5`,a)})}export{i as t};
