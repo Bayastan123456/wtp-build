@@ -1,0 +1,1 @@
+import{m as e}from"./utils-BF0_bMGL.js";import{n as t}from"./api-B4VOqUg8.js";var n={list:async()=>{let{data:n}=await e.get(`/exchange/orders/`);return n.map(t)}};export{n as t};

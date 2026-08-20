@@ -1,1 +1,0 @@
-import{g as e,o as t}from"./utils-DzYgLD90.js";var n=e(e=>({direction:t.RUB_TO_USDT,activeOrderId:null,setDirection:t=>e({direction:t}),setActiveOrder:t=>e({activeOrderId:t}),reset:()=>e({activeOrderId:null})}));export{n as t};
