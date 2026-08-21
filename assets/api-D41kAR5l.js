@@ -1,0 +1,1 @@
+import{m as e}from"./utils-Dp7d5gI_.js";import{n as t}from"./api-zs6aJwt7.js";var n={list:async()=>{let{data:n}=await e.get(`/exchange/orders/`);return n.map(t)}};export{n as t};

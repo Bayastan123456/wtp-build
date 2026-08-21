@@ -1,0 +1,1 @@
+import{n as e,t}from"./jsx-runtime-Cd5IZ6ng.js";var n=t();function r(){let{t}=e();return(0,n.jsxs)(`div`,{className:`flex flex-col gap-4`,children:[(0,n.jsx)(`h1`,{className:`text-lg font-semibold`,children:t(`support.page.title`)}),(0,n.jsx)(`p`,{className:`text-sm text-muted-foreground`,children:t(`support.page.description`)})]})}export{r as SupportPage};
