@@ -1,0 +1,1 @@
+function e(e,t=400){return new Promise(n=>setTimeout(()=>n(e),t))}function t(){return Math.random().toString(36).slice(2,10)}export{t as n,e as t};

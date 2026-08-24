@@ -1,0 +1,1 @@
+var e=[`http:`,`https:`];function t(t){if(!t)return!1;try{return e.includes(new URL(t,window.location.origin).protocol)}catch{return!1}}export{t};
