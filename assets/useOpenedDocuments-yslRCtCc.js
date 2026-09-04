@@ -1,0 +1,1 @@
+import{i as e,s as t}from"./jsx-runtime-Cd5IZ6ng.js";var n=t(e(),1);function r(){let[e,t]=(0,n.useState)(new Set);return{markOpened:(0,n.useCallback)(e=>{t(t=>t.has(e)?t:new Set(t).add(e))},[]),isOpened:(0,n.useCallback)(t=>e.has(t),[e])}}export{r as t};
