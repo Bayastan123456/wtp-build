@@ -1,0 +1,1 @@
+import{i as e,n as t,s as n}from"./jsx-runtime-Cd5IZ6ng.js";import{g as r}from"./store-9oP_yFcB.js";var i=n(e(),1);function a(){let{t:e}=t(),[n,a]=(0,i.useState)(!1);async function o(t){await navigator.clipboard.writeText(t),a(!0),r.success(e(`common.copied`)),setTimeout(()=>a(!1),1500)}return{copy:o,copied:n}}export{a as t};
