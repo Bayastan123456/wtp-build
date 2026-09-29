@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-Cd5IZ6ng.js";import{t}from"./VerificationStatus-C36ixxEM.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as VerificationPage};
