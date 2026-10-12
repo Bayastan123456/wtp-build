@@ -1,0 +1,1 @@
+import{R as e}from"./store-wFwn1YXV.js";import{n as t}from"./errors-CeUOCk8c.js";var n={"incorrect sms code was entered.":`card.sms.invalidCode`};function r(t,r){if(!t.trim())return r;let i=n[t.trim().toLowerCase()];return i?e.t(i):e.language?.startsWith(`ru`)&&!/[а-яё]/i.test(t)?r:t}function i(e,n){return r(t(e,n),n)}export{r as n,i as t};
